@@ -1,2 +1,2 @@
-# Petualanganpeyek.html-
+index.html-
 game petualangan peyek
